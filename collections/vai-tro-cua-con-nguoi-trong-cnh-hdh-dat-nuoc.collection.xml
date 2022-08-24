@@ -1,3 +1,37 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10856</md:content-id>  <md:title>vai trò của con người trong CNH, HDH đất nước</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>7044f6a6-d9ff-4826-92d3-cb76d3c23ed5</md:uuid>
-<md:slug>vai-tro-cua-con-nguoi-trong-cnh-hdh-dat-nuoc</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>mở đầu</md:title>                                <col:content>                    <col:module document="m27569"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>chương 1</md:title>                                <col:content>                    <col:module document="m27564"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>chương 2  </md:title>                                <col:content>                    <col:module document="m27571"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>kết luận</md:title>                                <col:content>                    <col:module document="m27561"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Tr&#x1ECB;nh Minh Ng&#x1ECD;c">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10856</md:content-id>
+    <md:title>vai tr&#xF2; c&#x1EE7;a con ng&#x1B0;&#x1EDD;i trong CNH, HDH &#x111;&#x1EA5;t n&#x1B0;&#x1EDB;c</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7044f6a6-d9ff-4826-92d3-cb76d3c23ed5</md:uuid>
+    <md:slug>vai-tro-cua-con-nguoi-trong-cnh-hdh-dat-nuoc</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>m&#x1EDF; &#x111;&#x1EA7;u</md:title>
+      <col:content>
+        <col:module document="m27569"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>ch&#x1B0;&#x1A1;ng 1</md:title>
+      <col:content>
+        <col:module document="m27564"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>ch&#x1B0;&#x1A1;ng 2  </md:title>
+      <col:content>
+        <col:module document="m27571"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>k&#x1EBF;t lu&#x1EAD;n</md:title>
+      <col:content>
+        <col:module document="m27561"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
